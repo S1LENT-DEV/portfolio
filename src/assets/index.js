@@ -7,6 +7,9 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import sb from "./sb.png";
+import pg from "./pg.png";
+import el from "./el.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -43,6 +46,9 @@ import tripguide from "./tripguide.png";
 
 export {
   pfp,
+  sb,
+  pg,
+  el,
   logo,
   backend,
   creator,

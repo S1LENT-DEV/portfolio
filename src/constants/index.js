@@ -1,4 +1,7 @@
 import {
+  sb, 
+  pg,
+  el,
   pfp,
   mobile,
   backend,
@@ -244,7 +247,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: sb,
     source_code_link: "https://github.com/s1lent-dev/Surveillance-Bureau",
   },
   {
@@ -269,7 +272,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: jobit,
+    image: pg,
     source_code_link: "https://github.com/s1lent-dev/PGRKAM-SIH2023",
   },
   {
@@ -290,7 +293,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: el,
     source_code_link: "https://github.com/s1lent-dev/Elysian",
   },
 ];
